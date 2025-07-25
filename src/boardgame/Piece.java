@@ -14,9 +14,9 @@ public abstract class Piece {
 		return board;
 	}
 	
-	public abstract boolean[][] possibleMoves();
+	public abstract boolean[][] possibleMoves(); // matriz metodo abstrato: possiveis movimentos
 	
-	public boolean possibleMove(Position position) {
+	public boolean possibleMove(Position position) {  // especifica se e possivel se mover para uma posicao especiao do tabuleiro
 		return possibleMoves()[position.getRow()][position.getColumn()];
 	}
 	

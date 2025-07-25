@@ -4,7 +4,7 @@ public class Board {
 	
 	private int rows;
 	private int columns;
-	private Piece[][] pieces;
+	private Piece[][] pieces; // Matrix pieces bidimensional
 	
 	public Board(int rows, int columns) {
 		
