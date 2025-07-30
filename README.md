@@ -7,6 +7,7 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 ♔ Todas as peças oficiais do xadrez: Rei, Rainha, Torre, Bispo, Cavalo e Peão.
 
+
 ✅ Movimentos básicos de cada peça, validados conforme regras do xadrez.
 
 🎯 Tratamento de movimentos especiais:
@@ -30,6 +31,7 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 👑 chess.pieces — Implementação de cada peça do xadrez (King, Queen, Rook, Bishop, Knight, Pawn).
 
+
 🚀 Como usar
 Clone o repositório:
 
@@ -47,6 +49,7 @@ Editar
 java chess.App
 Utilize o terminal ou interface (se implementada) para fazer movimentos no formato padrão, como e2 para posição origem e e4 para destino.
 
+
 🎲 Exemplo de movimentos especiais
 👑 Roque do lado do rei: move o rei duas casas para a direita e a torre para a casa ao lado do rei.
 
@@ -56,11 +59,11 @@ Utilize o terminal ou interface (se implementada) para fazer movimentos no forma
 
 🔄 Promoção: peão que alcança a última linha pode ser promovido a qualquer peça (normalmente rainha).
 
+
 🛠️ Tecnologias
 ☕ Java 11+
+
 
 🧱 Paradigma Orientado a Objetos
 
 🚨 Uso de exceções personalizadas para regras do jogo
-
-
