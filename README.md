@@ -10,6 +10,8 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 ♔ Todas as peças oficiais do xadrez: Rei, Rainha, Torre, Bispo, Cavalo e Peão.
 
+<img width="575" height="347" alt="Image" src="https://github.com/user-attachments/assets/6e0f35a7-6c97-4893-b182-7f76b4de5774" />
+
 
 ✅ Movimentos básicos de cada peça, validados conforme regras do xadrez.
 
