@@ -1,5 +1,6 @@
 ♟️ # Projeto Xadrez em Java - Chess Game
 
+
 Este projeto é uma implementação completa do jogo de xadrez em Java, com regras oficiais e movimentos especiais, utilizando orientação a objetos e abstrações para tabuleiro, peças e regras do jogo.
 
 ✨ Funcionalidades principais
