@@ -19,6 +19,8 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 🔄 Promoção de peão (promoção automática para rainha, com possibilidade de troca).
 
+<img width="641" height="273" alt="Image" src="https://github.com/user-attachments/assets/c5d3da8c-2f85-468f-a659-3f1413b9dd90" />
+
 🚨 Verificação de xeque e xeque-mate.
 
 🔄 Controle de turnos e validação de jogadas.
