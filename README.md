@@ -1,10 +1,12 @@
 ♟️ # Projeto Xadrez em Java - Chess Game
 
-
 Este projeto é uma implementação completa do jogo de xadrez em Java, com regras oficiais e movimentos especiais, utilizando orientação a objetos e abstrações para tabuleiro, peças e regras do jogo.
 
 ✨ Funcionalidades principais
+
 🏁 Implementação do tabuleiro 8x8.
+
+<img width="641" height="273" alt="Image" src="https://github.com/user-attachments/assets/2cf51981-5068-4e43-a765-96754bd844f5" />
 
 ♔ Todas as peças oficiais do xadrez: Rei, Rainha, Torre, Bispo, Cavalo e Peão.
 
