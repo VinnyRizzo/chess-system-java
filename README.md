@@ -4,6 +4,8 @@ Este projeto é uma implementação completa e fiel do jogo de xadrez, desenvolv
 
 A arquitetura do projeto foi construída com abstrações claras para o tabuleiro, peças, posições e lógica de partida, promovendo um design modular, reutilizável e de fácil manutenção. Além disso, o sistema conta com tratamento de exceções personalizado, validação de jogadas, alternância de turnos, verificação de situações de xeque e xeque-mate, além de manter o histórico de peças capturadas durante o jogo.
 
+Ideal tanto para aprendizado quanto para demonstração de boas práticas em Java, este projeto é executado via terminal e permite ao usuário realizar jogadas utilizando a notação padrão do xadrez.
+
 ## ✨ Funcionalidades principais
 
 🏁 Implementação do tabuleiro 8x8.
