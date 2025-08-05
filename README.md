@@ -15,17 +15,17 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 ✅ Movimentos básicos de cada peça, validados conforme regras do xadrez.
 
-🎯 Tratamento de movimentos especiais:
+## 🎯 Tratamento de movimentos especiais:
 
-## 👑 Roque (castling) — lado rei e lado dama.
+👑 Roque (castling) — lado rei e lado dama.
 
 <img width="519" height="536" alt="Image" src="https://github.com/user-attachments/assets/c3ed3370-1443-4e37-8661-a0ed8f071d04" />
 
-## ⚡ En passant.
+⚡En passant.
 
 <img width="716" height="577" alt="Image" src="https://github.com/user-attachments/assets/c701d9f4-7166-4c62-9929-28d67ce49883" />
 
-## 🔄 Promoção de peão (promoção automática para rainha, com possibilidade de troca).
+ 🔄 Promoção de peão (promoção automática para rainha, com possibilidade de troca).
 
 <img width="617" height="545" alt="Image" src="https://github.com/user-attachments/assets/2e4b2891-be61-4c89-986e-df3c4d9e8582" />
 
