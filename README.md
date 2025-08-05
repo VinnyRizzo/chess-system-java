@@ -17,14 +17,16 @@ Este projeto é uma implementação completa do jogo de xadrez usando Java e pri
 ## 🎯 Movimentos Especiais
 👑 Roque (castling) — lado do rei e lado da dama
 <img width="519" height="536" alt="Roque" src="https://github.com/user-attachments/assets/c3ed3370-1443-4e37-8661-a0ed8f071d04" />
+
 ⚡ En passant
 <img width="716" height="577" alt="En Passant" src="https://github.com/user-attachments/assets/c701d9f4-7166-4c62-9929-28d67ce49883" /> 
+
 🔄 Promoção de Peão (automática para Rainha com opção de troca)
 <img width="617" height="545" alt="Promoção" src="https://github.com/user-attachments/assets/2e4b2891-be61-4c89-986e-df3c4d9e8582" />
 
 ## 📸 Ilustrações
-🧩 Tabuleiro no Terminal
 
+🧩 Tabuleiro no Terminal
 <img width="641" height="273" alt="Tabuleiro" src="https://github.com/user-attachments/assets/2cf51981-5068-4e43-a765-96754bd844f5" />
 
 ♘ Todas as Peças
@@ -34,6 +36,7 @@ Este projeto é uma implementação completa do jogo de xadrez usando Java e pri
 <img width="197" height="82" alt="Capturas" src="https://github.com/user-attachments/assets/3a3ea141-41a2-432c-8a5e-577f04371b81" />
 
 ## 🗂️ Estrutura do Projeto
+
 bash
 Copiar
 Editar
@@ -86,15 +89,6 @@ Exemplo:
 e2 → posição de origem
 
 e4 → posição de destino
-
-🎲 Exemplos de Movimentos Especiais
-👑 Roque do Rei: Rei anda duas casas para a direita e a torre salta por cima dele
-
-👸 Roque da Dama: Rei anda duas casas para a esquerda com a torre vindo do canto
-
-⚡ En Passant: Captura especial do peão após avanço duplo do oponente
-
-🔄 Promoção: Peão que alcança a última linha vira outra peça (normalmente Rainha)
 
 ## 🛠️ Tecnologias Utilizadas
 ☕ Java 11+
