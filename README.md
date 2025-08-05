@@ -33,11 +33,11 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 🔄 Controle de turnos e validação de jogadas.
 
-📜 Histórico de peças capturadas.
+## 📜 Histórico de peças capturadas.
 
 <img width="197" height="82" alt="Image" src="https://github.com/user-attachments/assets/3a3ea141-41a2-432c-8a5e-577f04371b81" />
 
-🗂️ Estrutura do projeto
+## 🗂️ Estrutura do projeto
 🟦 boardgame — Classes genéricas do tabuleiro (Board, Piece, Position).
 
 ♟️ chess — Lógica do xadrez, incluindo partida (ChessMatch), peças específicas (ChessPiece), posições de xadrez (ChessPosition) e exceções (ChessException).
