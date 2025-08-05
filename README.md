@@ -1,8 +1,8 @@
-♟️ # Projeto Xadrez em Java - Chess Game
+## ♟ Projeto Xadrez em Java - Chess Game
 
 Este projeto é uma implementação completa do jogo de xadrez em Java, com regras oficiais e movimentos especiais, utilizando orientação a objetos e abstrações para tabuleiro, peças e regras do jogo.
 
-✨ Funcionalidades principais
+## ✨ Funcionalidades principais
 
 🏁 Implementação do tabuleiro 8x8.
 
@@ -17,15 +17,15 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 🎯 Tratamento de movimentos especiais:
 
-👑 Roque (castling) — lado rei e lado dama.
+## 👑 Roque (castling) — lado rei e lado dama.
 
 <img width="519" height="536" alt="Image" src="https://github.com/user-attachments/assets/c3ed3370-1443-4e37-8661-a0ed8f071d04" />
 
-⚡ En passant.
+## ⚡ En passant.
 
 <img width="716" height="577" alt="Image" src="https://github.com/user-attachments/assets/c701d9f4-7166-4c62-9929-28d67ce49883" />
 
-🔄 Promoção de peão (promoção automática para rainha, com possibilidade de troca).
+## 🔄 Promoção de peão (promoção automática para rainha, com possibilidade de troca).
 
 <img width="617" height="545" alt="Image" src="https://github.com/user-attachments/assets/2e4b2891-be61-4c89-986e-df3c4d9e8582" />
 
@@ -45,7 +45,7 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 👑 chess.pieces — Implementação de cada peça do xadrez (King, Queen, Rook, Bishop, Knight, Pawn).
 
 
-🚀 Como usar
+## 🚀 Como usar
 Clone o repositório:
 
 bash
@@ -63,7 +63,7 @@ java chess.App
 Utilize o terminal ou interface (se implementada) para fazer movimentos no formato padrão, como e2 para posição origem e e4 para destino.
 
 
-🎲 Exemplo de movimentos especiais
+## 🎲 Exemplo de movimentos especiais
 👑 Roque do lado do rei: move o rei duas casas para a direita e a torre para a casa ao lado do rei.
 
 👸 Roque do lado da dama: move o rei duas casas para a esquerda e a torre para a casa ao lado do rei.
@@ -73,10 +73,8 @@ Utilize o terminal ou interface (se implementada) para fazer movimentos no forma
 🔄 Promoção: peão que alcança a última linha pode ser promovido a qualquer peça (normalmente rainha).
 
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 ☕ Java 11+
-
-
 🧱 Paradigma Orientado a Objetos
 
 🚨 Uso de exceções personalizadas para regras do jogo
