@@ -24,11 +24,15 @@ Este projeto é uma implementação completa do jogo de xadrez usando Java e pri
 
 ## 📸 Ilustrações
 🧩 Tabuleiro no Terminal
+
 <img width="641" height="273" alt="Tabuleiro" src="https://github.com/user-attachments/assets/2cf51981-5068-4e43-a765-96754bd844f5" />
+
 ♘ Todas as Peças
 <img width="575" height="347" alt="Peças" src="https://github.com/user-attachments/assets/6e0f35a7-6c97-4893-b182-7f76b4de5774" />
-## 📜 Histórico de Peças Capturadas
+
+📜 Histórico de Peças Capturadas
 <img width="197" height="82" alt="Capturas" src="https://github.com/user-attachments/assets/3a3ea141-41a2-432c-8a5e-577f04371b81" />
+
 ## 🗂️ Estrutura do Projeto
 bash
 Copiar
