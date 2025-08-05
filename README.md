@@ -1,7 +1,7 @@
 ## ♟ Projeto Xadrez em Java
 Este projeto é uma implementação completa do jogo de xadrez usando Java e princípios da programação orientada a objetos, com todas as regras oficiais do jogo, incluindo movimentos especiais como roque, en passant e promoção de peão.
 
-##✨ Funcionalidades Principais
+## ✨ Funcionalidades Principais
 🧩 Tabuleiro 8x8 renderizado via terminal
 
 ♔ Todas as peças oficiais: Rei, Rainha, Torre, Bispo, Cavalo e Peão
@@ -15,13 +15,14 @@ Este projeto é uma implementação completa do jogo de xadrez usando Java e pri
 📜 Histórico de peças capturadas
 
 ## 🎯 Movimentos Especiais
-## 👑 Roque (castling) — lado do rei e lado da dama
+👑 Roque (castling) — lado do rei e lado da dama
 <img width="519" height="536" alt="Roque" src="https://github.com/user-attachments/assets/c3ed3370-1443-4e37-8661-a0ed8f071d04" />
-## ⚡ En passant
-<img width="716" height="577" alt="En Passant" src="https://github.com/user-attachments/assets/c701d9f4-7166-4c62-9929-28d67ce49883" />
-## 🔄 Promoção de Peão (automática para Rainha com opção de troca)
+⚡ En passant
+<img width="716" height="577" alt="En Passant" src="https://github.com/user-attachments/assets/c701d9f4-7166-4c62-9929-28d67ce49883" /> 
+🔄 Promoção de Peão (automática para Rainha com opção de troca)
 <img width="617" height="545" alt="Promoção" src="https://github.com/user-attachments/assets/2e4b2891-be61-4c89-986e-df3c4d9e8582" />
-📸 Ilustrações
+
+## 📸 Ilustrações
 🧩 Tabuleiro no Terminal
 <img width="641" height="273" alt="Tabuleiro" src="https://github.com/user-attachments/assets/2cf51981-5068-4e43-a765-96754bd844f5" />
 ♘ Todas as Peças
