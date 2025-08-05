@@ -27,10 +27,6 @@ Este projeto é uma implementação completa do jogo de xadrez em Java, com regr
 
 <img width="617" height="545" alt="Image" src="https://github.com/user-attachments/assets/2e4b2891-be61-4c89-986e-df3c4d9e8582" />
 
-🚨 Verificação de xeque e xeque-mate.
-
-🔄 Controle de turnos e validação de jogadas.
-
 ## 📜 Histórico de peças capturadas.
 
 <img width="197" height="82" alt="Image" src="https://github.com/user-attachments/assets/3a3ea141-41a2-432c-8a5e-577f04371b81" />
